@@ -5,19 +5,23 @@ body{
   margin: 0 0;
   padding: 0 0;
   background-color: #f3f3f3;
-  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4{
   font-family: 'Merriweather', serif;
 }
 
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
 #head{
   background-color: #d0674f;
   border-bottom: solid #67292d 5px;
   text-align: center;
-  font-size: 34px;
-  padding: 20px;
+  font-size: 32px;
+  padding: 10px;
+  font-family: 'Merriweather', serif;
 }
 
 #text{
