@@ -5,6 +5,7 @@ body{
   margin: 0 0;
   padding: 0 0;
   background-color: #f3f3f3;
+  color: #232323;
 }
 
 h1, h2, h3, h4{
@@ -15,7 +16,7 @@ p{
   font-family: 'Open Sans', sans-serif;
 }
 
-#head{
+.header{
   background-color: #d0674f;
   border-bottom: solid #67292d 5px;
   text-align: center;
@@ -24,7 +25,15 @@ p{
   font-family: 'Merriweather', serif;
 }
 
-#text{
+.footer{
+  background-color: #d0674f;
+  border-top: solid #67292d 3px;
+  font-size: 26px;
+  padding: 5px;
+  font-family: 'Merriweather', serif;
+}
+
+.text{
   font-size: 18px;
   margin-left: 10px;
 }
